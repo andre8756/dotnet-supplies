@@ -54,10 +54,7 @@ Execute:
 ```bash
 dotnet run
 ```
-
-## Objetivo
-
-Projeto desenvolvido para praticar **C# e .NET**, aplicando conceitos de POO em um cenário de controle de suprimentos e estoque.
+ticar **C# e .NET**, aplicando conceitos de POO em um cenário de controle de suprimentos e estoque.
 
 ---
 

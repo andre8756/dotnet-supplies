@@ -26,7 +26,7 @@ public class Produto
             throw new ArgumentException("A unidade do grupo é obrigatória.");
         }
 
-        if(estoqueMinimo < 0)
+        if (estoqueMinimo < 0)
         {
             throw new ArgumentException("O estoque mínimo não pode ser negativo.");
         }
@@ -36,5 +36,29 @@ public class Produto
         Unidade = unidade;
         EstoqueMinimo = estoqueMinimo;
         QuantidadeEmEstoque = 0;
+    }
+
+    public void AdicionarEstoque(int quantidade)
+    {
+        if (quantidade <= 0)
+        {
+            throw new ArgumentException("A quantidade deve ser maior que zero.");
+
+        }
+
+        QuantidadeEmEstoque += quantidade;
+    }
+
+    public void RemoverEstoque(int quantidade)
+    {
+        if (quantidade <= 0)
+            throw new ArgumentException("A quantidade deve ser maior que zero.");
+
+        if (quantidade > QuantidadeEmEstoque)
+            throw new InvalidOperationException(
+                "Estoque insuficiente para realizar a saída."
+            );
+
+        QuantidadeEmEstoque -= quantidade;
     }
 }

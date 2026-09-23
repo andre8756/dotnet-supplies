@@ -1,0 +1,15 @@
+/home/andreheribertoschmitt/Documentos/programs/vs_code/projects/C#/MHtech/primeiro-projeto-C#/projeto-supri/SistemaSuprimentos/bin/Debug/net10.0/SistemaSuprimentos
+/home/andreheribertoschmitt/Documentos/programs/vs_code/projects/C#/MHtech/primeiro-projeto-C#/projeto-supri/SistemaSuprimentos/bin/Debug/net10.0/SistemaSuprimentos.deps.json
+/home/andreheribertoschmitt/Documentos/programs/vs_code/projects/C#/MHtech/primeiro-projeto-C#/projeto-supri/SistemaSuprimentos/bin/Debug/net10.0/SistemaSuprimentos.runtimeconfig.json
+/home/andreheribertoschmitt/Documentos/programs/vs_code/projects/C#/MHtech/primeiro-projeto-C#/projeto-supri/SistemaSuprimentos/bin/Debug/net10.0/SistemaSuprimentos.dll
+/home/andreheribertoschmitt/Documentos/programs/vs_code/projects/C#/MHtech/primeiro-projeto-C#/projeto-supri/SistemaSuprimentos/bin/Debug/net10.0/SistemaSuprimentos.pdb
+/home/andreheribertoschmitt/Documentos/programs/vs_code/projects/C#/MHtech/primeiro-projeto-C#/projeto-supri/SistemaSuprimentos/obj/Debug/net10.0/SistemaSuprimentos.GeneratedMSBuildEditorConfig.editorconfig
+/home/andreheribertoschmitt/Documentos/programs/vs_code/projects/C#/MHtech/primeiro-projeto-C#/projeto-supri/SistemaSuprimentos/obj/Debug/net10.0/SistemaSuprimentos.AssemblyInfoInputs.cache
+/home/andreheribertoschmitt/Documentos/programs/vs_code/projects/C#/MHtech/primeiro-projeto-C#/projeto-supri/SistemaSuprimentos/obj/Debug/net10.0/SistemaSuprimentos.AssemblyInfo.cs
+/home/andreheribertoschmitt/Documentos/programs/vs_code/projects/C#/MHtech/primeiro-projeto-C#/projeto-supri/SistemaSuprimentos/obj/Debug/net10.0/SistemaSuprimentos.csproj.CoreCompileInputs.cache
+/home/andreheribertoschmitt/Documentos/programs/vs_code/projects/C#/MHtech/primeiro-projeto-C#/projeto-supri/SistemaSuprimentos/obj/Debug/net10.0/SistemaSuprimentos.sourcelink.json
+/home/andreheribertoschmitt/Documentos/programs/vs_code/projects/C#/MHtech/primeiro-projeto-C#/projeto-supri/SistemaSuprimentos/obj/Debug/net10.0/SistemaSuprimentos.dll
+/home/andreheribertoschmitt/Documentos/programs/vs_code/projects/C#/MHtech/primeiro-projeto-C#/projeto-supri/SistemaSuprimentos/obj/Debug/net10.0/refint/SistemaSuprimentos.dll
+/home/andreheribertoschmitt/Documentos/programs/vs_code/projects/C#/MHtech/primeiro-projeto-C#/projeto-supri/SistemaSuprimentos/obj/Debug/net10.0/SistemaSuprimentos.pdb
+/home/andreheribertoschmitt/Documentos/programs/vs_code/projects/C#/MHtech/primeiro-projeto-C#/projeto-supri/SistemaSuprimentos/obj/Debug/net10.0/SistemaSuprimentos.genruntimeconfig.cache
+/home/andreheribertoschmitt/Documentos/programs/vs_code/projects/C#/MHtech/primeiro-projeto-C#/projeto-supri/SistemaSuprimentos/obj/Debug/net10.0/ref/SistemaSuprimentos.dll

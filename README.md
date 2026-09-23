@@ -55,7 +55,3 @@ Execute:
 dotnet run
 ```
 ticar **C# e .NET**, aplicando conceitos de POO em um cenário de controle de suprimentos e estoque.
-
----
-
-**Status:** Em desenvolvimento
